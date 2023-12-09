@@ -6,7 +6,6 @@ const int N = 3;
 const int M = 3;
 int main()
 {
-    setlocale(LC_ALL,"Russian");
     int a,i;
     cout << "Введите число A (>1): ";
     cin >> a;
